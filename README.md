@@ -14,10 +14,15 @@ Miałem przyjemność współpracować z takimi markami jak Samsung jako freelan
 
 ## 🛠️ Mój stack technologiczny:
 **Frontend**: React.js, Next.js, TypeScript
+
 **Backend**: Node.js, TypeScript, Express.js
+
 **Bazy danych**: MySQL, PostgreSQL
+
 **AI**: Claude, SuperMaven, v0, AWS Bedrock, OpenAI API
+
 **Narzędzia**: TailwindCSS, Shadcn UI, SCSS
+
 **Cloud**: AWS
 
 ## 🚀 Wyróżnione projekty
